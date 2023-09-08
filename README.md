@@ -37,6 +37,7 @@ solana-keygen new --outfile ./creator.json
 
 
 solana config set --keypair $PWD/owner.json
+
 solana config set --url https://rpc.ankr.com/solana_devnet
 
 ## SOL jetonlarını airdrop yapın:
