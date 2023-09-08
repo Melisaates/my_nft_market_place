@@ -1,0 +1,16 @@
+upload result
+[2/4] 🖥  Initializing upload
+▪▪▪▪▪ Connected
+Funding address:
+//contractın pubkeyi
+  -> pubkey: uwGsSpE6LascdtMKPih7osgnGvCW1ve7hSG8d3RPrWn
+  -> lamports: 154906 (◎ 0.000154906)
+Signature: 4QSJmYNb3FKp8VXYT3nyVckEukDt77w1k7oFwZkK7Vv67zaU2HiyE7L84GEsCWLRxgv9zuGURxWfw2hm5497vh9v
+
+
+
+[1/3] 📦 Creating collection NFT for candy machine
+Collection mint ID: 4CNmqbU8tXZntoKDySWvp5QnXvbP5b1xXtPZFMkZdzP5
+
+[2/3] 🍬 Creating candy machine
+Candy machine ID: 7HohkMV7666MidEN8PT5wnszqBAJaMgtp1jRBsrGwsRj

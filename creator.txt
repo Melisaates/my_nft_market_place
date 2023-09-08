@@ -1,0 +1,7 @@
+===========================================================================
+pubkey: 6ta4VhcKZxjgKprCHb361DmckkeMLQo5D6AYEEMf9uhp
+===========================================================================
+Save this seed phrase and your BIP39 passphrase to recover your new keypair:
+world ankle poverty kite reason meadow curious gown keen wish grocery cream
+===========================================================================
+

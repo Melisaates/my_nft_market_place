@@ -1,0 +1,5 @@
+pubkey: uwGsSpE6LascdtMKPih7osgnGvCW1ve7hSG8d3RPrWn
+==================================================================================
+Save this seed phrase and your BIP39 passphrase to recover your new keypair:
+tortoise hunt three midnight artwork guess spoon cream viable verify ketchup super
+==================================================================================
