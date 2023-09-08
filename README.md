@@ -47,15 +47,15 @@ solana config set --url https://rpc.ankr.com/solana_devnet
     solana airdrop 2 <owner_pub_key>
     solana airdrop 2 <creator_pub_key>
     
-## Wallet'ları Phantom'a ekleyin.
+### Wallet'ları Phantom'a ekleyin.
 
-## Assets (varlıklar) dosyalarını indirin ve açın.
+### Assets (varlıklar) dosyalarını indirin ve açın.
 
-## Sugar için bir yapılandırma dosyası oluşturun.
+### Sugar için bir yapılandırma dosyası oluşturun.
 
-## Assets dosyalarını Sugar kullanarak yükleyin.
-## Candy Machine ve koleksiyon NFT'sini oluşturun.
-## Projeyi başlatın.
+### Assets dosyalarını Sugar kullanarak yükleyin.
+### Candy Machine ve koleksiyon NFT'sini oluşturun.
+### Projeyi başlatın.
 
 
 
