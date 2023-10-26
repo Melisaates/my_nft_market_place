@@ -1,22 +1,22 @@
 # my_nft_market_place
 # NFT Marketplace Projesi
 
-Bu proje, bir NFT (Non-Fungible Token) pazar yeri oluşturmak için kullanılan komutları ve adımları içerir. Aşağıda, projenin nasıl kurulacağı ve çalıştırılacağı hakkında temel bilgiler bulunmaktadır.
+This project includes the commands and steps used to create an NFT (Non-Fungible Token) marketplace. Below are basic instructions on how to set up and run the project.
 
-## Gereksinimler
+## Requirements
 
 - [Solana CLI](https://docs.solana.com/cli/install-solana-cli-tools)
 - [Sugar-v3](https://github.com/metaplex-foundation/sugar/releases)
 - [Phantom Cüzdan](https://phantom.app/)
 
-## Kurulum
+## Installation
 
-1. Solana CLI'yi yükleyin:
+1. Install Solana CLI:
 
    ```bash
    sh -c "$(curl -sSfL https://release.solana.com/v1.14.11/install)"
 
-    Sugar-v3'ü indirin:
+    Download Sugar-v3:
 
     bash
 
@@ -24,7 +24,7 @@ wget https://github.com/metaplex-foundation/sugar/releases/download/sugar-cmv3-a
 mv sugar-ubuntu-latest sugar
 chmod +x sugar
 
-## Wallet'ları oluşturun:
+## Create Wallets:  
 
 
 ''' shell
@@ -32,7 +32,7 @@ solana-keygen new --outfile ./owner.json
 solana-keygen new --outfile ./creator.json
 ''''
 
-## Solana yapılandırmasını ayarlayın:
+## Configure Solana:
 
 
 
@@ -40,30 +40,25 @@ solana config set --keypair $PWD/owner.json
 
 solana config set --url https://rpc.ankr.com/solana_devnet
 
-## SOL jetonlarını airdrop yapın:
-
+## Airdrop SOL Tokens:
 
 
     solana airdrop 2 <owner_pub_key>
     solana airdrop 2 <creator_pub_key>
     
-### Wallet'ları Phantom'a ekleyin.
+### Add Wallets to Phantom.
 
-### Assets (varlıklar) dosyalarını indirin ve açın.
+### Download and extract Asset files.
 
-### Sugar için bir yapılandırma dosyası oluşturun.
+### Create a configuration file for Sugar.
 
-### Assets dosyalarını Sugar kullanarak yükleyin.
-### Candy Machine ve koleksiyon NFT'sini oluşturun.
-### Projeyi başlatın.
+### Upload Asset files using Sugar.
+
+### Create the Candy Machine and NFT collection.
+
+### Start the project.
 
 
+License
 
-## Projenin nasıl kullanılacağına dair ayrıntılı bilgiler için Dökümantasyon sayfasını inceleyin.
-Katkıda Bulunma
-
-Eğer bu projeye katkıda bulunmak isterseniz, lütfen Katkıda Bulunma Rehberine göz atın.
-Lisans
-
-Bu proje MIT Lisansı ile lisanslanmıştır.
-
+This project is licensed under the MIT License.
